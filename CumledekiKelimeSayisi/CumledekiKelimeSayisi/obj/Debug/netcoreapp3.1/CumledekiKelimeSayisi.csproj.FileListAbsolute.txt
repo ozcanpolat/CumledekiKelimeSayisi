@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\bin\Debug\netcoreapp3.1\CumledekiKelimeSayisi.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\bin\Debug\netcoreapp3.1\CumledekiKelimeSayisi.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\bin\Debug\netcoreapp3.1\CumledekiKelimeSayisi.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\bin\Debug\netcoreapp3.1\CumledekiKelimeSayisi.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\bin\Debug\netcoreapp3.1\CumledekiKelimeSayisi.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\bin\Debug\netcoreapp3.1\CumledekiKelimeSayisi.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\obj\Debug\netcoreapp3.1\CumledekiKelimeSayisi.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\obj\Debug\netcoreapp3.1\CumledekiKelimeSayisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\obj\Debug\netcoreapp3.1\CumledekiKelimeSayisi.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\obj\Debug\netcoreapp3.1\CumledekiKelimeSayisi.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\obj\Debug\netcoreapp3.1\CumledekiKelimeSayisi.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\obj\Debug\netcoreapp3.1\CumledekiKelimeSayisi.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\obj\Debug\netcoreapp3.1\CumledekiKelimeSayisi.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\CumledekiKelimeSayisi\CumledekiKelimeSayisi\obj\Debug\netcoreapp3.1\CumledekiKelimeSayisi.genruntimeconfig.cache
